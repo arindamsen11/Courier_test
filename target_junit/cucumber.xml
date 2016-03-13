@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="11.008706">
+<testcase classname="Test" name="Test web apps" time="11.008706">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given Navigate to the url...................................................passed
+Then Check the Login page...................................................undefined
+Then Check Track Shipment...................................................undefined
+]]></failure>
+</testcase>
+</testsuite>
