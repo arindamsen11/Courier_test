@@ -1,8 +1,0 @@
-cucumberController\CucumberDriver.class
-reusables\ReadFile.class
-objectRepository\NewCourierPage.class
-reporting\ExtentManager.class
-testCases\Test1.class
-reusables\Setup.class
-testCases\testing.class
-mainCode\MainClass.class
