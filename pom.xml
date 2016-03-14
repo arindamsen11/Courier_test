@@ -3,7 +3,7 @@
   <groupId>Courier</groupId>
   <artifactId>Courier_test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
 <name>Test1</name>
 	<url>http://maven.apache.org</url>
